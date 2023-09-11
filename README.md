@@ -2,7 +2,7 @@
 
 Our pharmacy business built on a backbone of traditional values, we pride ourselves on being an integral part of the community we serve. Putting patient care at the heart of everything we do, we’re here to make it easier for our customers to access the healthcare treatments and services they need, when they need them. Whether you’re after a one-off treatment for a mild illness or you need help managing a chronic condition, our team is here for you all year round.
 
-When you’re looking for health and pharmacy services, you can rely on the team at PeterMorgan Pharmacy. Offering everything from prescription medicines to vaccinations, health checks and private services, we’re a patient-orientated pharmacy that you can trust. Visit your local Dyserth Pharmacy to access our services, speak to our pharmacy teams for free advice and find out more about your community pharmacy.
+When you’re looking for health and pharmacy services, you can rely on the team at PeterMorgan Pharmacy. Offering everything from prescription medicines to vaccinations, health checks and private services, we’re a patient-orientated pharmacy that you can trust. Visit your local Dyserth Pharmacy to access our services, speak to our pharmacy team for free advice and find out more about your local community pharmacy.
 
 
 ## Codeanywhere Reminders
